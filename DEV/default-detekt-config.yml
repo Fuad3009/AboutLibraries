@@ -20,6 +20,16 @@ console-reports:
   exclude:
   #  - 'ProjectStatisticsReport'
   #  - 'ComplexityReport'
+
+
+
+
+
+
+
+
+
+
   #  - 'NotificationReport'
   #  - 'FindingsReport'
   #  - 'BuildFailureReport'
